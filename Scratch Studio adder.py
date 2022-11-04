@@ -4,7 +4,7 @@ os.system("pip install -U scratchattach")
 import scratchattach as scratch3
 #silly scratchattach setup
 
-session = scratch3.login("Mariomaster46", "9511195111")
+session = scratch3.login("USERNAME HERE", "PASSWORD HERE!!")
 #ENTER YOUR INFO HERE!!!! no... It does not steal your info
 
 studio = 32343806
