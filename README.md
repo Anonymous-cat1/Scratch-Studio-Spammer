@@ -1,6 +1,8 @@
 # Scratch-Studio-mass-project-adder
 Add a project into ~300 studios! Granted it would take an hour or two but it works.
 
+# This is old and sucks piss, new version coming never.
+
 The 300 studios cap is a limitation of the scratch API, I'm guessing to prevent things like this lmao... 
 the code will auto stop once it has reached 300 successful studios, (or whatever you set the limit to)
 
