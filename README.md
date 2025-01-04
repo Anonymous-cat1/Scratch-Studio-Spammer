@@ -1,5 +1,5 @@
 # Scratch-Studio-Spammer 
-Add a project to a bilion studios to make children ANGRY!!!! I know I said I wouldn't update this, but someone asked me to make a new version so yall are getting it too.
+Add a project to a billion studios to make children ANGRY!!!! I know I said I wouldn't update this, but someone asked me to make a new version so yall are getting it too.
 
 # How it works
 It uses [scratchattach](https://github.com/TimMcCool/scratchattach) by [TimMcCool](https://github.com/TimMcCool) to automate adding a project to hundreds of studios (perhaps only 300 per account per hour, although I haven't tested that far yet).
