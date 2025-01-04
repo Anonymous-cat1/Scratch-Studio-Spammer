@@ -35,4 +35,5 @@ Just use Pyinstaller, to install it use `pip install pyinstaller`.
 Run the program with `-v` to enable the logfile, copy its contents and the contents of your terminal into a [new issue](https://github.com/Anonymous-cat1/Scratch-Studio-Spammer/issues/new).
 - **DO NOT INCLUDE YOUR USERNAME, PASSWORD, OR PROJECT ID. ALSO CHECK THE LOGFILE FOR ANY OF THOSE TOO, AS THEY MAY BE PUT INTO THERE.** Otherwise, I will have to close the issue.
 
+![image](https://github.com/user-attachments/assets/c26c7ea4-b7cb-459d-a1e1-b4273b577d91)
 # USE UNDER A VPN. SCRATCH TEAM MAY BAN YOUR IP FOR USING THIS FOR AN EXTENDED TIME. THIS PROGRAM COMES WITH NO WARRENTY.
