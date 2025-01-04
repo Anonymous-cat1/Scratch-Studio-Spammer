@@ -24,8 +24,8 @@ Example: ScratchStudioSpammerVX.exe Anonymous_cat1 "ThisIsMy Password" 12345678 
 
 To run, open a termial (or command prompt) in the directory the program is stored. and type in:
 
-- For executable `ScratchStudioSpammerV2.exe [Username] [Password [Project ID] [Modifiers (optional)]` (You shouldn't need python to run)
-- For PY file `Pyhton ScratchStudioSpammerV2.py [Username] [Password [Project ID] [Modifiers (optional)]`
+- For executable `ScratchStudioSpammerV2.exe [Username] [Password] [Project ID] [Modifiers (optional)]` (You shouldn't need python to run)
+- For PY file `ScratchStudioSpammerV2.py [Username] [Password] [Project ID] [Modifiers (optional)]` (You need Python to run)
 
 # Building
 Just use Pyinstaller, to install it use `pip install pyinstaller`.
